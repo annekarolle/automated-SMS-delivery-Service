@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\automated-SMS-delivery-Service-Twilio.props" />
+</Project>

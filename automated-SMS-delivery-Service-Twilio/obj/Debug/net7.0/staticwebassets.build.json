@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "wXDFsvvLZLV3IFWi1YQ27cF5GD8fxFbwHebm4u5UHdI=",
+  "Source": "automated-SMS-delivery-Service-Twilio",
+  "BasePath": "_content/automated-SMS-delivery-Service-Twilio",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
